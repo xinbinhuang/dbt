@@ -1,5 +1,8 @@
 ## dbt 0.17.0 (Release TBD)
 
+## dbt 0.14.1b6 (June 04, 2020)
+
+
 ## dbt 0.14.1b5 (June 04, 2020)
 
 
