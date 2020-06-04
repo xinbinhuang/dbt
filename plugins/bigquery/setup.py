@@ -14,7 +14,7 @@ except ImportError:
 
 
 package_name = "dbt-bigquery"
-package_version = "0.14.1b10"
+package_version = "0.14.1b11"
 description = """The bigquery adapter plugin for dbt (data build tool)"""
 
 this_directory = os.path.abspath(os.path.dirname(__file__))
